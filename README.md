@@ -102,7 +102,7 @@ AI/
 
 ## 🚀 Running the Backend
 
-```bash
+
 python app.py
 
 
@@ -110,14 +110,18 @@ Backend runs at:
 
 http://localhost:5000
 
-🧠 Training the Intent Model
+---
+
+## 🧠 Training the Intent Model
+
 python -m nlp.intent_classifier
 
 
 Trained model files are intentionally not committed.
 They can be regenerated at any time.
+---
+## 📌 Project Status
 
-📌 Project Status
 
 This is a prototype / portfolio project focused on:
 
@@ -128,8 +132,18 @@ contextual reasoning
 real-world assistant behavior
 
 It is not a production-ready assistant and is intentionally kept simple to highlight architecture rather than scale.
+---
 
-🔮 Future Improvements
+## Demo
+![
+    
+](<Screenshot 2026-01-08 221038.png>)
+
+<video controls src="demo.mp4" title="Title"></video>
+
+
+---
+## 🔮 Future Improvements
 
 Session-based context instead of in-memory state
 
@@ -140,8 +154,9 @@ Voice-first assistant inside chat
 Backend deployment (Render / Fly.io)
 
 Context-aware suggestions
+---
 
-👤 Author
+## 👤 Author
 
 Anish Tiwari
 
