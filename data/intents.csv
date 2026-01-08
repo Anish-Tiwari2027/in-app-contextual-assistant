@@ -1,0 +1,161 @@
+text,intent
+text,intent
+open whatsapp,open_whatsapp
+open my whatsapp,open_whatsapp
+launch whatsapp,open_whatsapp
+start whatsapp,open_whatsapp
+can you open whatsapp,open_whatsapp
+open whatsapp app,open_whatsapp
+
+open youtube,open_youtube
+open my youtube,open_youtube
+launch youtube,open_youtube
+start youtube,open_youtube
+play youtube,open_youtube
+open youtube app,open_youtube
+
+open instagram,open_instagram
+launch instagram,open_instagram
+start instagram,open_instagram
+open my instagram,open_instagram
+open instagram app,open_instagram
+
+open chrome,open_chrome
+open browser,open_chrome
+launch chrome,open_chrome
+start chrome,open_chrome
+open google chrome,open_chrome
+
+
+call mom,call_contact
+call my mom,call_contact
+make a call to mom,call_contact
+dial mom,call_contact
+ring my mom,call_contact
+call papa,call_contact
+call my papa,call_contact
+make a call to papa,call_contact
+dial papa,call_contact
+ring papa,call_contact
+call riya,call_contact
+call my friend riya,call_contact
+dial riya,call_contact
+make a call to riya,call_contact
+ring riya,call_contact
+
+send message to mom,send_message
+send a message to mom,send_message
+text mom,send_message
+message my mom,send_message
+send sms to mom,send_message
+send message to papa,send_message
+text papa,send_message
+send a message to papa,send_message
+message papa,send_message
+send sms to papa,send_message
+send message to riya,send_message
+text riya,send_message
+message riya,send_message
+send a text to riya,send_message
+send sms to riya,send_message
+
+turn on flashlight,flashlight_on
+switch on flashlight,flashlight_on
+turn on torch,flashlight_on
+switch on torch,flashlight_on
+enable flashlight,flashlight_on
+activate flashlight,flashlight_on
+turn off flashlight,flashlight_off
+switch off flashlight,flashlight_off
+turn off torch,flashlight_off
+switch off torch,flashlight_off
+disable flashlight,flashlight_off
+deactivate flashlight,flashlight_off
+
+what is the weather,weather_info
+tell me the weather,weather_info
+how is the weather,weather_info
+weather today,weather_info
+what's the weather like,weather_info
+current weather,weather_info
+what time is it,time_query
+tell me the time,time_query
+current time,time_query
+what is the time now,time_query
+can you tell the time,time_query
+time right now,time_query
+text,intent
+increase volume,volume_up
+turn up volume,volume_up
+raise the volume,volume_up
+volume up,volume_up
+make it louder,volume_up
+increase sound,volume_up
+decrease volume,volume_down
+turn down volume,volume_down
+lower the volume,volume_down
+volume down,volume_down
+make it quieter,volume_down
+reduce sound,volume_down
+
+turn on wifi,wifi_on
+switch on wifi,wifi_on
+enable wifi,wifi_on
+wifi on,wifi_on
+connect to wifi,wifi_on
+activate wifi,wifi_on
+turn off wifi,wifi_off
+switch off wifi,wifi_off
+disable wifi,wifi_off
+wifi off,wifi_off
+disconnect wifi,wifi_off
+deactivate wifi,wifi_off
+
+turn on bluetooth,bluetooth_on
+switch on bluetooth,bluetooth_on
+enable bluetooth,bluetooth_on
+bluetooth on,bluetooth_on
+activate bluetooth,bluetooth_on
+turn off bluetooth,bluetooth_off
+switch off bluetooth,bluetooth_off
+disable bluetooth,bluetooth_off
+bluetooth off,bluetooth_off
+deactivate bluetooth,bluetooth_off
+
+open settings,open_settings
+open phone settings,open_settings
+go to settings,open_settings
+launch settings,open_settings
+open device settings,open_settings
+
+set an alarm,set_alarm
+set alarm for morning,set_alarm
+create alarm,set_alarm
+wake me up,set_alarm
+set a new alarm,set_alarm
+
+check battery,battery_status
+battery percentage,battery_status
+what is battery level,battery_status
+how much battery is left,battery_status
+show battery status,battery_status
+
+open browser,open_browser
+open chrome,open_browser
+launch browser,open_browser
+start chrome,open_browser
+open internet browser,open_browser
+
+play music,play_music
+start music,play_music
+play some songs,play_music
+play a song,play_music
+start playing music,play_music
+pause music,pause_music
+stop music,pause_music
+pause the song,pause_music
+stop the song,pause_music
+open profile,open_profile
+show profile,open_profile
+view profile,open_profile
+open user profile,open_profile

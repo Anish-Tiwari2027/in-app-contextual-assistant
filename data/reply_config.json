@@ -1,0 +1,86 @@
+{
+  "greeting": [
+    "Hello! How can I help you?",
+    "Hi there 👋",
+    "Hey! What can I do for you?"
+  ],
+
+  "call_contact": [
+    "📞 Calling now.",
+    "Dialing the number 📱",
+    "Connecting your call..."
+  ],
+
+  "open_camera": [
+    "📷 Opening the camera.",
+    "Camera is ready.",
+    "Launching camera now."
+  ],
+
+  "send_message": [
+    "✉️ Message mode activated.",
+    "Who would you like to message?",
+    "Ready to send a message."
+  ],
+
+  "fallback": [
+    "Sorry, I didn’t understand that.",
+    "Can you rephrase that?",
+    "I’m still learning that command."
+  ],
+
+  "open_app": ["Opening now.", "Launching the app.", "Opening it for you."],
+
+  "weather_info": [
+    "Checking the weather.",
+    "Fetching weather details.",
+    "Let me see today’s weather."
+  ],
+
+  "time_query": ["Checking the time.", "Let me get the current time."],
+  "flashlight_on": [
+    "🔦 Flashlight turned on.",
+    "Torch is now on.",
+    "Light switched on."
+  ],
+
+  "flashlight_off": [
+    "🔦 Flashlight turned off.",
+    "Torch is now off.",
+    "Light switched off."
+  ],
+
+  "open_whatsapp": [
+    "📱 Opening WhatsApp.",
+    "Launching WhatsApp.",
+    "WhatsApp is opening."
+  ],
+
+  "open_youtube": [
+    "▶️ Opening YouTube.",
+    "Launching YouTube.",
+    "YouTube is ready."
+  ],
+
+  "open_instagram": [
+    "📸 Opening Instagram.",
+    "Launching Instagram.",
+    "Instagram is starting."
+  ],
+
+  "open_chrome": [
+    "🌐 Opening Chrome.",
+    "Launching Chrome browser.",
+    "Chrome is opening."
+  ],
+  "open_profile": [
+    "Opening profile",
+    "Sure, opening profile",
+    "Taking you to the profile"   
+  ],
+  "Bad_word": [
+    "Benkelode apna kaam kar",
+    "Teri maa choddunga",
+    "chal na chutiye"
+  ]
+}

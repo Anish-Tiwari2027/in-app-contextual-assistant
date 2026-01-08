@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Virtual env
+venv/
+.env
+
+# Model files (retrainable)
+nlp/intent_model.pkl
+nlp/tfidf.pkl
+
+# Logs
+*.log
+
+# Android
+.gradle/
+local.properties
+*.iml
+/build/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+nltk_data/
