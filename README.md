@@ -135,11 +135,10 @@ It is not a production-ready assistant and is intentionally kept simple to highl
 ---
 
 ## Demo
-![
-    
-](<Screenshot 2026-01-08 221038.png>)
+![ Architecture Overview](<Screenshot 2026-01-08 221038.png>)
 
-<video controls src="demo.mp4" title="Title"></video>
+[▶ Watch Demo Video](assets/demo.mp4)
+
 
 
 ---
